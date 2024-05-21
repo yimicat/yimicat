@@ -14,7 +14,7 @@ You can meet me here:
 const Yimi = {
   skills: {
     Backend: ['Java', 'SpringCloud', 'ExpressJs', 'NodeJs'],
-    Frontend: ['Vue', 'Electron', 'uni-app', 'Nuxt', 'TypeScript', 'Html/Css'],
+    Frontend: ['Vue', 'Svelte', 'Electron', 'uni-app', 'Nuxt', 'TypeScript', 'Html/Css'],
     DB: ['Mysql/MariaDB', 'MongoDB', 'Redis'],
     Other: ['Docker', 'MP2', 'Nginx', 'Jenkins', 'Wordpress'],
     UI: ['Axure', 'Figma', 'Photoshop']
